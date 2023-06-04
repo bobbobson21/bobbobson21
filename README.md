@@ -1,4 +1,5 @@
-**my links:**
+<img align="right" width="400" src="https://i.imgur.com/NYTiCpc.gif">
+    
 <a href="https://www.linkedin.com/in/kyle-edwards-729475256/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
