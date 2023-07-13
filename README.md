@@ -20,5 +20,14 @@ my favourite coding language is lua because of how simple (by this I mean ; are 
 - publicAI: publicAI is a remade version of the AI system I made for a game called a chat with it and in this version there are all sorts of new fetures such as synonyms and spelling groups making the spellchecking it has to do work better and it is made in such a manner where you could get it to run any bit of lua code at almost any stage in the AI loop making it very easy to intergrate into any future game or program. this AI is also made to be taught manually via code and it cant do google searches but it can be easily used for anything and still seam a bit life like.
 
 
+# non git hub tasks I will most likely be working on if git hub actavity is low
+- game programming
+- level design
+- gmod addons, [addon page here](https://steamcommunity.com/id/ilikecreepers3334/myworkshopfiles/)
+- university and or collage work
+- helping friends 
+
+
+
 
 
