@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kyle-edwards-729475256/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://www.linkedin.com/in/kyle-edwards-729475256/">
+<a href="https://www.youtube.com/channel/UCH2_CJ4To9Eaagw1o1byOpQ">
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube">
 </a>
 <a href="https://zlabs.webflow.io/">
